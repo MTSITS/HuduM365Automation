@@ -24,14 +24,14 @@
             }
         },
         "DesktopsName": {
-            "defaultValue": "Desktops / Laptops",
+            "defaultValue": "Computer Assets",
             "type": "string",
             "metadata": {
                 "description": "The name of the Asset Layout in Hudu used to track Desktops / Laptops. (Must exist already with a richtext Microsoft 365 field)"
             }
         },        
         "MobilesName": {
-            "defaultValue": "Mobile Devices",
+            "defaultValue": "Mobile Assets",
             "type": "string",
             "metadata": {
                 "description": "The name of the Asset Layout in Hudu used to track Mobile Devices. (Must exist already with a richtext Microsoft 365 field)"
